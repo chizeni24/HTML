@@ -1,0 +1,1 @@
+Paragraphs tags are used to give the text space so that they are not clustered. It is simply just a single element that is denoted by <p></p>
