@@ -1,0 +1,1 @@
+In this exercise there was usage of customizing html elements with different properties and including them into the html page it self.
