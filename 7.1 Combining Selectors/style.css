@@ -1,0 +1,22 @@
+/* Write your code here: */
+h1 , h2 {
+    color: blueviolet
+}
+
+/* A Child selector takes a level deep of the parent */
+.box > p {
+    color : firebrick
+}
+
+/* A space is used to signify alies which go deeper than children*/
+.box li{
+    color: blue
+}
+
+li.done {
+    color : seagreen
+}
+
+ul p.done {
+    color : gold
+}
